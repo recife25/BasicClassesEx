@@ -1,0 +1,13 @@
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.exe
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.deps.json
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.runtimeconfig.json
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.runtimeconfig.dev.json
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.dll
+C:\Users\pjfru\repos\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.pdb
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.csprojAssemblyReference.cache
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.AssemblyInfo.cs
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.dll
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.pdb
+C:\Users\pjfru\repos\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.genruntimeconfig.cache
