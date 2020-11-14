@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Felipe Ruiz 
+//classes exercise
+using System;
 using System.Collections.Generic;
 using System.Text;
 
